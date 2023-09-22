@@ -1,0 +1,48 @@
+*{
+    Margin: 0;padding:0;
+    box-sizing: border-box;
+   }
+body {
+    background-image: url(../MP1Images/background.jpg);
+    background-repeat: no-repeat ;
+    background-size:cover;
+    background-position:center ;
+
+}
+footer {
+    background-color: rgb(236, 238, 223);
+    width: 100vw;
+    position: absolute;
+}
+.navbar {
+ 
+    background-color: rgb(236, 238, 223);
+}
+
+@media screen and (max-width: 430px) {
+    #par {
+      width: 100vw;
+    }
+  }
+  .form1 {
+    height: 90%;
+    width: 45%;
+    justify-content: center;
+    margin-top: 10vh;
+
+}
+.form2 {
+    height: 90%;
+    width: 45%;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-right: -10vh;
+}
+.logo {
+    height: 50px;
+    margin-left: 30px;
+}
+
+
+
+

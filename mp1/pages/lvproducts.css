@@ -1,0 +1,29 @@
+*{
+    Margin: 0;padding:0;
+    box-sizing: border-box;
+   }
+body {
+    background-image: url(../MP1Images/background.jpg);
+    background-repeat: no-repeat ;
+    background-size:cover;
+    background-position:center ;
+
+}
+footer {
+    background-color: rgb(236, 238, 223);
+    width: 100vw;
+    position: absolute;
+    
+}    
+.navbar {
+    background-color: rgb(236, 238, 223);
+}
+.logo {
+    height: 50px;
+    margin-left: 30px;
+}
+@media screen and (max-width: 430px) {
+    .logo {
+      width: 40px;
+    }
+  }
