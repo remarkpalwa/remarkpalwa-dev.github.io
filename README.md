@@ -1,1 +1,1 @@
-# remarkpalwa-dev.github.io
+# remarkpalwa.github.io
