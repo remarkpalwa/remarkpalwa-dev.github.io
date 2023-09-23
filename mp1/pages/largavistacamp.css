@@ -3,7 +3,7 @@
     box-sizing: border-box;
    }
 body {
-    background-image: url(../MP1Images/background.jpg);
+    background-image: url(../MP1Images/Background4.png);
     background-repeat: no-repeat ;
     background-size:cover;
     background-position:center ;
@@ -42,7 +42,11 @@ footer {
     height: 50px;
     margin-left: 30px;
 }
-
+/* @media screen and (min-width: 1024px) {
+    #cards {
+      object-fit:fill ;
+    }
+  } */
 
 
 

@@ -3,10 +3,10 @@
     box-sizing: border-box;
    }
 body {
-    background-image: url(../MP1Images/background.jpg);
+    background-image: url(../MP1Images/Background4.png);
     background-repeat: no-repeat ;
-    background-size:cover;
-    background-position:center ;
+   background-size: contain;
+    
 }
 .logo {
     height: 50px;
@@ -15,7 +15,7 @@ body {
 footer {
     background-color: rgb(236, 238, 223);
     width: 100vw;
-    position: absolute;
+    
 }
 .navbar {
  
