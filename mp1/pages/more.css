@@ -5,7 +5,7 @@
 body {
     background-image: url(../MP1Images/Background4.png);
     background-repeat: no-repeat ;
-   background-size: contain;
+   background-size: cover;
     
 }
 .logo {
